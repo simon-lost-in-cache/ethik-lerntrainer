@@ -1,0 +1,1189 @@
+{
+  "title": "Information & Business Ethics – Lerntrainer",
+  "version": "1.0",
+  "source": "Information and Business Ethics, WS 2026/27, Dr. Raphael Max und Dr. Alexander Kriebitz",
+  "exam_style_reference": "Prüfungsbogen Information and Business Ethics, WS 2022/23",
+  "usage": "Offene Antworten in eigenen Sätzen; Schlüsselwörter optional; Musterantwort nach Abgabe; Selbsteinschätzung für Wiederholungen. Keine automatische Bewertung.",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Begriffliche Grundlagen",
+      "slides": "19–29"
+    },
+    {
+      "id": 2,
+      "title": "Historisch-ökonomischer Hintergrund",
+      "slides": "30–41"
+    },
+    {
+      "id": 3,
+      "title": "Grundlagen und Werkzeuge der Wirtschaftsethik",
+      "slides": "42–70"
+    },
+    {
+      "id": 4,
+      "title": "Digitalethik",
+      "slides": "71–94"
+    }
+  ],
+  "questions": [
+    {
+      "id": "ethics-001",
+      "chapter": 1,
+      "slide_reference": "Folie 21",
+      "question": "Was versteht man unter Robinsonökonomik?",
+      "keywords": [
+        "Robinson Crusoe",
+        "allein",
+        "Produzent und Konsument",
+        "Knappheit"
+      ],
+      "sample_answer": "Robinsonökonomik beschreibt die wirtschaftliche Situation eines Menschen ohne andere Interaktionspartner. Robinson Crusoe ist allein sowohl Produzent als auch Konsument und muss mit knappen Ressourcen auskommen."
+    },
+    {
+      "id": "ethics-002",
+      "chapter": 1,
+      "slide_reference": "Folien 21–22",
+      "question": "Warum ändert sich Robinson Crusoes wirtschaftliche Situation, als Freitag hinzukommt?",
+      "keywords": [
+        "zwei Personen",
+        "Ressourcen",
+        "Konkurrenz",
+        "Kooperation"
+      ],
+      "sample_answer": "Mit Freitag entsteht eine Interaktion zwischen zwei Personen, die mit knappen Ressourcen umgehen müssen. Daraus können Konkurrenz, Interessenkonflikte oder Kooperation entstehen."
+    },
+    {
+      "id": "ethics-003",
+      "chapter": 1,
+      "slide_reference": "Folie 22",
+      "question": "Welche zwei Elemente kennzeichnen eine wirtschaftsethische Problemstellung?",
+      "keywords": [
+        "mindestens zwei Personen",
+        "Güterknappheit",
+        "Konflikt"
+      ],
+      "sample_answer": "Eine wirtschaftsethische Problemstellung setzt laut Vorlesung mindestens zwei Personen und eine Situation der Güterknappheit voraus. Die Knappheit kann zu einem sozialen Interessenkonflikt führen."
+    },
+    {
+      "id": "ethics-004",
+      "chapter": 1,
+      "slide_reference": "Folie 22",
+      "question": "Welche grundsätzlichen Reaktionen auf einen Konflikt nennt die Vorlesung?",
+      "keywords": [
+        "Kampf",
+        "Nächstenliebe",
+        "Kooperation"
+      ],
+      "sample_answer": "Die Vorlesung nennt Kampf, Nächstenliebe und Kooperation als mögliche Reaktionen auf Konflikte um knappe Güter. Für die Wirtschaftsethik ist insbesondere die Frage wichtig, unter welchen Bedingungen Kooperation gelingt."
+    },
+    {
+      "id": "ethics-005",
+      "chapter": 1,
+      "slide_reference": "Folien 21–22",
+      "question": "Was ist mit einem wirtschaftsethischen Interaktionsproblem gemeint?",
+      "keywords": [
+        "mehrere Akteure",
+        "Knappheit",
+        "Interessen",
+        "wechselseitiges Handeln"
+      ],
+      "sample_answer": "Ein wirtschaftsethisches Interaktionsproblem entsteht, wenn mehrere Akteure mit knappen Gütern und unterschiedlichen Interessen umgehen müssen. Ihre Handlungen wirken aufeinander ein und werfen Fragen nach gerechter oder kooperativer Konfliktlösung auf."
+    },
+    {
+      "id": "ethics-006",
+      "chapter": 1,
+      "slide_reference": "Folie 23",
+      "question": "Was bedeutet distributive Gerechtigkeit?",
+      "keywords": [
+        "vorhandene Güter",
+        "Verteilung",
+        "gerechtes Ergebnis"
+      ],
+      "sample_answer": "Distributive Gerechtigkeit fragt, wie eine vorgegebene Menge vorhandener Güter nach gerechten Regeln verteilt werden kann. Im Vordergrund steht ein gerechtes Verteilungsergebnis."
+    },
+    {
+      "id": "ethics-007",
+      "chapter": 1,
+      "slide_reference": "Folie 24",
+      "question": "Was bedeutet allokative Gerechtigkeit?",
+      "keywords": [
+        "knappe Produktionsfaktoren",
+        "bestmögliche Zuteilung",
+        "Bedürfnisbefriedigung",
+        "Kooperationsgewinne"
+      ],
+      "sample_answer": "Allokative Gerechtigkeit fragt, wie knappe Produktionsfaktoren bestmöglich eingesetzt werden können, um Bedürfnisse zu befriedigen. Durch eine geeignete Zuteilung können Kooperationsgewinne und eine größere Gütermenge entstehen."
+    },
+    {
+      "id": "ethics-008",
+      "chapter": 1,
+      "slide_reference": "Folien 23–24",
+      "question": "Worin unterscheiden sich distributive und allokative Gerechtigkeit?",
+      "keywords": [
+        "Verteilung",
+        "vorhandener Kuchen",
+        "Ressourceneinsatz",
+        "Kuchen vergrößern"
+      ],
+      "sample_answer": "Distributive Gerechtigkeit behandelt die gerechte Aufteilung einer gegebenen Gütermenge. Allokative Gerechtigkeit beschäftigt sich dagegen mit dem bestmöglichen Einsatz knapper Ressourcen, um die Gütermenge oder ihre Qualität zu verbessern."
+    },
+    {
+      "id": "ethics-009",
+      "chapter": 1,
+      "slide_reference": "Folie 25",
+      "question": "Warum berücksichtigt Wirtschaftsethik neben Motiven auch Handlungsbedingungen?",
+      "keywords": [
+        "Interaktionsprobleme",
+        "Rahmenbedingungen",
+        "gegenseitige Abhängigkeit"
+      ],
+      "sample_answer": "Wirtschaftsethische Probleme entstehen häufig durch das Zusammenwirken mehrerer Akteure. Deshalb müssen neben individuellen Motiven auch die Handlungsbedingungen betrachtet werden, welche ihre Entscheidungen und Kooperationsmöglichkeiten prägen."
+    },
+    {
+      "id": "ethics-010",
+      "chapter": 1,
+      "slide_reference": "Folie 25",
+      "question": "Was versteht die Vorlesung unter Interdependenz wirtschaftlicher Akteure?",
+      "keywords": [
+        "wechselseitige Abhängigkeit",
+        "vernetzte Wirtschaft",
+        "Auswirkungen auf andere"
+      ],
+      "sample_answer": "Interdependenz bedeutet, dass wirtschaftliche Akteure wechselseitig voneinander abhängig sind. In einer vernetzten Wirtschaft können die Entscheidungen einer Person oder Organisation Folgen für viele andere haben."
+    },
+    {
+      "id": "ethics-011",
+      "chapter": 1,
+      "slide_reference": "Folie 27",
+      "question": "Welcher Teilbereich der Philosophie beschäftigt sich mit der Frage 'Was soll ich tun'?",
+      "keywords": [
+        "praktische Philosophie",
+        "Ethik",
+        "Handeln"
+      ],
+      "sample_answer": "Diese Frage gehört zur praktischen Philosophie, insbesondere zur Ethik. Sie untersucht, nach welchen moralischen Maßstäben Menschen handeln sollen."
+    },
+    {
+      "id": "ethics-012",
+      "chapter": 1,
+      "slide_reference": "Folie 27",
+      "question": "Worin unterscheiden sich theoretische und praktische Philosophie?",
+      "keywords": [
+        "Erkenntnis",
+        "Wirklichkeit",
+        "Handeln",
+        "Ethik"
+      ],
+      "sample_answer": "Die theoretische Philosophie beschäftigt sich unter anderem mit Wirklichkeit, Wissen und Erkenntnis. Die praktische Philosophie untersucht Fragen des Handelns, darunter ethische und politische Fragen."
+    },
+    {
+      "id": "ethics-013",
+      "chapter": 1,
+      "slide_reference": "Folie 28",
+      "question": "Welche Verbindung zwischen Politik, Ethik und Ökonomie wird bei Aristoteles angesprochen?",
+      "keywords": [
+        "Aristoteles",
+        "Einheit",
+        "Politik",
+        "Ethik",
+        "Ökonomie"
+      ],
+      "sample_answer": "In der Vorlesung wird Aristoteles mit der Vorstellung einer Einheit von Politik, Ethik und Ökonomie verbunden. Wirtschaftliches Handeln wird damit nicht unabhängig von Fragen des guten Lebens und der gesellschaftlichen Ordnung betrachtet."
+    },
+    {
+      "id": "ethics-014",
+      "chapter": 1,
+      "slide_reference": "Folie 29",
+      "question": "Was bezeichnet Moral im philosophischen Sprachgebrauch?",
+      "keywords": [
+        "Regeln",
+        "Normen",
+        "menschliches Handeln"
+      ],
+      "sample_answer": "Moral bezeichnet die Regeln und Normen, die menschliches Handeln bestimmen oder bestimmen sollen. Sie bildet den Gegenstand der ethischen Reflexion."
+    },
+    {
+      "id": "ethics-015",
+      "chapter": 1,
+      "slide_reference": "Folie 29",
+      "question": "Was versteht man unter Ethik im Unterschied zur Moral?",
+      "keywords": [
+        "Ethik",
+        "Theorie der Moral",
+        "Begründung",
+        "Normen"
+      ],
+      "sample_answer": "Ethik ist die philosophische Theorie der Moral. Sie untersucht und begründet, welche moralischen Regeln und Normen gelten sollen."
+    },
+    {
+      "id": "ethics-016",
+      "chapter": 1,
+      "slide_reference": "Folie 29",
+      "question": "Warum sind Ethik und Moral nicht einfach gleichbedeutend?",
+      "keywords": [
+        "Moral als Normensystem",
+        "Ethik als Theorie",
+        "Reflexion"
+      ],
+      "sample_answer": "Im Alltag werden beide Begriffe oft gleich verwendet. Philosophisch bezeichnet Moral das System von Normen und Regeln, während Ethik diese Normen untersucht und reflektiert."
+    },
+    {
+      "id": "ethics-017",
+      "chapter": 2,
+      "slide_reference": "Folien 31–32",
+      "question": "Was sagt die Vorlesung über den Wandel moralischer Werte?",
+      "keywords": [
+        "Wertewandel",
+        "historische Veränderung",
+        "strukturelle Ursachen",
+        "Wohlstand"
+      ],
+      "sample_answer": "Moralische Werte können sich im Verlauf der Geschichte verändern. Die Vorlesung betont, dass dabei auch strukturelle Ursachen wie wirtschaftlicher Wohlstand eine Rolle spielen."
+    },
+    {
+      "id": "ethics-018",
+      "chapter": 2,
+      "slide_reference": "Folie 33",
+      "question": "Welche gesellschaftlichen Merkmale kennzeichneten die Vormoderne laut Vorlesung?",
+      "keywords": [
+        "kleine Gemeinschaften",
+        "vorgegebene Ordnung",
+        "geringe Kommunikation",
+        "bekannte Personen"
+      ],
+      "sample_answer": "Vormoderne Gesellschaften waren stärker durch kleine Gemeinschaften, eine vorgegebene gesellschaftliche Ordnung und begrenzte Kommunikationsmöglichkeiten geprägt. Viele wirtschaftliche Interaktionen fanden zwischen bereits bekannten Personen statt."
+    },
+    {
+      "id": "ethics-019",
+      "chapter": 2,
+      "slide_reference": "Folie 34",
+      "question": "Welche wirtschaftlichen Ziele standen in vormodernen Gesellschaften häufig im Vordergrund?",
+      "keywords": [
+        "Autarkie",
+        "Subsistenz",
+        "Risikoaversion",
+        "Landwirtschaft"
+      ],
+      "sample_answer": "In vormodernen Gesellschaften standen häufig Selbstversorgung beziehungsweise Subsistenz, Autarkie und die Absicherung gegen Naturgefahren im Vordergrund. Die Landwirtschaft spielte eine zentrale Rolle."
+    },
+    {
+      "id": "ethics-020",
+      "chapter": 2,
+      "slide_reference": "Folie 34",
+      "question": "Was bedeutet der Begriff 'oikos' im historischen Zusammenhang der Ökonomie?",
+      "keywords": [
+        "oikos",
+        "Haus",
+        "Ökonomie als Privatsache"
+      ],
+      "sample_answer": "Der griechische Begriff 'oikos' bedeutet Haus. Die Vorlesung verwendet ihn, um die vormoderne Vorstellung von Ökonomie als Angelegenheit des Haushalts zu erläutern."
+    },
+    {
+      "id": "ethics-021",
+      "chapter": 2,
+      "slide_reference": "Folie 35",
+      "question": "Warum dient Catos Haltung gegenüber Handel als Beispiel für antike Risikoaversion?",
+      "keywords": [
+        "Cato",
+        "Handel als riskant",
+        "Landwirtschaft",
+        "Sicherheit"
+      ],
+      "sample_answer": "Cato beschreibt den Handel als potenziell gewinnbringend, aber gefährlich. Seine positive Bewertung der Landwirtschaft verdeutlicht die in der Vorlesung angesprochene Risikoaversion."
+    },
+    {
+      "id": "ethics-022",
+      "chapter": 2,
+      "slide_reference": "Folie 36",
+      "question": "Wie wurde der Handel in den religiösen Vorstellungen des Mittelalters häufig bewertet?",
+      "keywords": [
+        "gerechter Preis",
+        "Übervorteilung",
+        "Misstrauen gegenüber Handel",
+        "Seelenheil"
+      ],
+      "sample_answer": "Die Vorlesung beschreibt einen grundsätzlichen Verdacht gegenüber Handel und der Gefahr, andere zu übervorteilen. Wirtschaftliches Handeln sollte sich an Vorstellungen eines gerechten Preises und moralischer Pflichten orientieren."
+    },
+    {
+      "id": "ethics-023",
+      "chapter": 2,
+      "slide_reference": "Folie 37",
+      "question": "Wie beurteilte Augustinus laut Skript wirtschaftliche Gewinne?",
+      "keywords": [
+        "Gewinne",
+        "nicht grundsätzlich unmoralisch",
+        "nicht ausufern",
+        "Bedürfnisse"
+      ],
+      "sample_answer": "Laut Skript betrachtete Augustinus Gewinne nicht grundsätzlich als unmoralisch. Sie durften jedoch nicht ausufern, und die Bewertung von Preisen orientierte sich am menschlichen Bedürfnis."
+    },
+    {
+      "id": "ethics-024",
+      "chapter": 2,
+      "slide_reference": "Folie 38",
+      "question": "Welche Rolle spielt der Pluralismus für moderne Gesellschaften?",
+      "keywords": [
+        "Vielfalt von Überzeugungen",
+        "keine einheitliche externe Instanz",
+        "unterschiedliche Lebensentwürfe"
+      ],
+      "sample_answer": "Moderne Gesellschaften zeichnen sich durch eine Vielfalt moralischer und weltanschaulicher Überzeugungen aus. Eine allgemein anerkannte externe Instanz, die eine für alle verbindliche Ordnung vorgibt, fehlt zunehmend."
+    },
+    {
+      "id": "ethics-025",
+      "chapter": 2,
+      "slide_reference": "Folie 38",
+      "question": "Welche Folgen haben Mobilität und Individualisierung für die moderne Gesellschaft?",
+      "keywords": [
+        "geografische Mobilität",
+        "soziale Mobilität",
+        "Individualisierung",
+        "Multikulturalität"
+      ],
+      "sample_answer": "Die zunehmende geografische, soziale, kulturelle und berufliche Mobilität begünstigt unterschiedliche Lebensentwürfe. Dadurch nehmen Individualisierung, Multikulturalität und Pluralismus zu."
+    },
+    {
+      "id": "ethics-026",
+      "chapter": 2,
+      "slide_reference": "Folie 38",
+      "question": "Welche Bedeutung hat der Wohlstandszuwachs für den Wandel zur Moderne?",
+      "keywords": [
+        "materieller Wohlstand",
+        "industrielle Revolution",
+        "Strukturwandel"
+      ],
+      "sample_answer": "Die Vorlesung nennt den starken Anstieg des materiellen Wohlstands seit der industriellen Revolution als Merkmal moderner Gesellschaften. Solche strukturellen Veränderungen beeinflussen auch moralische Fragen und gesellschaftliche Erwartungen."
+    },
+    {
+      "id": "ethics-027",
+      "chapter": 2,
+      "slide_reference": "Folie 39",
+      "question": "Warum wird traditionelle soziale Kontrolle in modernen Gesellschaften schwieriger?",
+      "keywords": [
+        "Mobilität",
+        "anonyme Interaktionen",
+        "Face-to-Face-Kontrolle",
+        "Normen"
+      ],
+      "sample_answer": "In modernen Gesellschaften können sich Individuen traditionellen sozialen Kontrollen leichter entziehen. Persönliche Überwachung, Ächtung oder moralische Appelle gewährleisten deshalb nicht mehr zuverlässig die Einhaltung gemeinsamer Normen."
+    },
+    {
+      "id": "ethics-028",
+      "chapter": 2,
+      "slide_reference": "Folien 38–39",
+      "question": "Nennen Sie vier grundlegende Unterschiede zwischen Vormoderne und Moderne.",
+      "keywords": [
+        "Mitgestaltung von Strukturen",
+        "Pluralismus",
+        "Mobilität",
+        "Wohlstand",
+        "veränderte Kontrolle"
+      ],
+      "sample_answer": "Die Moderne ermöglicht eine stärkere Mitgestaltung gesellschaftlicher Strukturen und ist von mehr Mobilität sowie pluralistischen Lebensentwürfen geprägt. Hinzu kommen ein erheblicher Wohlstandszuwachs und eine geringere Wirksamkeit traditioneller persönlicher Kontrolle."
+    },
+    {
+      "id": "ethics-029",
+      "chapter": 2,
+      "slide_reference": "Folien 38–39",
+      "question": "Warum sind Veränderungen von Vormoderne zu Moderne für Wirtschaftsethik relevant?",
+      "keywords": [
+        "anonyme Akteure",
+        "Pluralismus",
+        "neue Regeln",
+        "Handlungsbedingungen"
+      ],
+      "sample_answer": "Wirtschaftliche Beziehungen finden zunehmend zwischen mobilen, einander unbekannten Akteuren mit unterschiedlichen Wertvorstellungen statt. Deshalb gewinnen verlässliche Regeln und institutionelle Handlungsbedingungen gegenüber rein persönlicher moralischer Kontrolle an Bedeutung."
+    },
+    {
+      "id": "ethics-030",
+      "chapter": 2,
+      "slide_reference": "Folien 36–37",
+      "question": "Worin unterscheidet sich das mittelalterliche Ideal des gerechten Preises von einer reinen Gewinnorientierung?",
+      "keywords": [
+        "gerechter Preis",
+        "Bedürfnisse",
+        "Übervorteilung",
+        "Gewinnbegrenzung"
+      ],
+      "sample_answer": "Das Ideal eines gerechten Preises beurteilt einen Kauf nicht ausschließlich nach dem erzielbaren Gewinn. Es berücksichtigt auch menschliche Bedürfnisse und die Frage, ob eine Partei übervorteilt wird."
+    },
+    {
+      "id": "ethics-031",
+      "chapter": 2,
+      "slide_reference": "Folie 41",
+      "question": "Welches neue ethische Thema illustriert die Vorlesung mit dem Bericht 'Limits to Growth'?",
+      "keywords": [
+        "Grenzen des Wachstums",
+        "begrenzte Rohstoffe",
+        "Umwelt",
+        "Klimawandel"
+      ],
+      "sample_answer": "Der Bericht dient im Skript als Beispiel dafür, dass wirtschaftliches Wachstum wegen begrenzter natürlicher Ressourcen ethisch hinterfragt wird. Auch Umweltzerstörung und Klimawandel verschärfen diese Debatte."
+    },
+    {
+      "id": "ethics-032",
+      "chapter": 2,
+      "slide_reference": "Folien 33–39",
+      "question": "Warum werden wirtschaftliche Beziehungen in der Moderne komplexer?",
+      "keywords": [
+        "Mobilität",
+        "Vernetzung",
+        "unbekannte Personen",
+        "unterschiedliche Überzeugungen"
+      ],
+      "sample_answer": "Mehr Mobilität und vielfältigere gesellschaftliche Lebensentwürfe führen zu Interaktionen zwischen Menschen, die einander häufig nicht persönlich kennen. Damit steigen die Anforderungen an Regeln und Kooperation in wirtschaftlichen Beziehungen."
+    },
+    {
+      "id": "ethics-033",
+      "chapter": 3,
+      "slide_reference": "Folien 42–44",
+      "question": "Worin unterscheiden sich deskriptive und normative Ethik?",
+      "keywords": [
+        "Beschreibung von Normen",
+        "moralische Bewertung",
+        "Soll-Fragen"
+      ],
+      "sample_answer": "Deskriptive Ethik beschreibt und erklärt vorhandene moralische Normensysteme. Normative Ethik untersucht dagegen, welche Handlungen oder Regeln moralisch richtig sind und befolgt werden sollen."
+    },
+    {
+      "id": "ethics-034",
+      "chapter": 3,
+      "slide_reference": "Folien 44–46",
+      "question": "Was versteht man unter Metaethik?",
+      "keywords": [
+        "Begründung von Moral",
+        "Bedeutung von gut",
+        "Vorannahmen normativer Ethik"
+      ],
+      "sample_answer": "Metaethik fragt nach der Bedeutung und Begründbarkeit moralischer Aussagen, etwa was 'gut' oder 'Verpflichtung' bedeutet. Sie beurteilt nicht unmittelbar einzelne Handlungen, sondern untersucht Voraussetzungen normativer Ethik."
+    },
+    {
+      "id": "ethics-035",
+      "chapter": 3,
+      "slide_reference": "Folien 44–47",
+      "question": "Unterscheiden Sie deskriptive Ethik, normative Ethik und Metaethik anhand eines Beispiels.",
+      "keywords": [
+        "deskriptiv beschreiben",
+        "normativ bewerten",
+        "metaethisch begründen"
+      ],
+      "sample_answer": "Deskriptive Ethik könnte untersuchen, welche Vorstellungen über gerechte Löhne verbreitet sind. Normative Ethik fragt, welche Löhne gerecht wären, während Metaethik untersucht, was ein moralisches Urteil wie 'gerecht' überhaupt bedeutet."
+    },
+    {
+      "id": "ethics-036",
+      "chapter": 3,
+      "slide_reference": "Folie 42",
+      "question": "Welche drei wichtigen Ansätze der normativen Ethik zeigt die Übersicht?",
+      "keywords": [
+        "Tugendethik",
+        "deontologische Ethik",
+        "konsequentialistische Ethik"
+      ],
+      "sample_answer": "Die Übersicht nennt Tugendethik, deontologische Ethik und konsequentialistische Ethik als zentrale Ansätze. Sie unterscheiden sich darin, welche Eigenschaften, Pflichten oder Folgen für ein moralisches Urteil ausschlaggebend sind."
+    },
+    {
+      "id": "ethics-037",
+      "chapter": 3,
+      "slide_reference": "Folie 45",
+      "question": "Welche Gesichtspunkte können laut Folie 45 Grundlage eines ethischen Urteils sein?",
+      "keywords": [
+        "Handlung",
+        "Ziel",
+        "Gesinnung",
+        "Folgen"
+      ],
+      "sample_answer": "Eine ethische Bewertung kann die Handlung als solche, ihre Ziele, die Gesinnung beziehungsweise Motive oder ihre Folgen in den Mittelpunkt stellen. Ethische Theorien gewichten diese Gesichtspunkte unterschiedlich."
+    },
+    {
+      "id": "ethics-038",
+      "chapter": 3,
+      "slide_reference": "Folie 51",
+      "question": "Was versteht man unter Tugendethik?",
+      "keywords": [
+        "Charakter",
+        "Tugenden",
+        "gutes Leben",
+        "Haltung"
+      ],
+      "sample_answer": "Die Tugendethik beurteilt moralisches Handeln anhand tugendhafter Haltungen und des Charakters. Im Mittelpunkt steht die Entwicklung von Tugenden als Grundlage eines guten beziehungsweise gelungenen Lebens."
+    },
+    {
+      "id": "ethics-039",
+      "chapter": 3,
+      "slide_reference": "Folie 51",
+      "question": "Nennen Sie einen Vertreter der Tugendethik und erläutern Sie dessen Grundgedanken.",
+      "keywords": [
+        "Aristoteles",
+        "Tugend",
+        "vernünftiges Mittelmaß",
+        "Eudaimonie"
+      ],
+      "sample_answer": "Aristoteles ist ein wichtiger Vertreter der Tugendethik. Er verbindet ein gelungenes Leben mit tugendhaftem Handeln und beschreibt Tugend als vernünftige Mitte zwischen Extremen."
+    },
+    {
+      "id": "ethics-040",
+      "chapter": 3,
+      "slide_reference": "Folie 51",
+      "question": "Welche Tugenden nennt das Skript beispielhaft?",
+      "keywords": [
+        "Klugheit",
+        "Gerechtigkeit",
+        "Tapferkeit",
+        "Mäßigung"
+      ],
+      "sample_answer": "Das Skript nennt unter anderem Klugheit, Gerechtigkeit, Tapferkeit und Mäßigung. Tugendhaftes Verhalten entsteht dabei durch Haltung, Vernunft und Einübung."
+    },
+    {
+      "id": "ethics-041",
+      "chapter": 3,
+      "slide_reference": "Folie 51",
+      "question": "Was bedeutet bei Aristoteles die 'Mitte zwischen zwei Extremen'?",
+      "keywords": [
+        "vernünftiges Mittleres",
+        "Tapferkeit",
+        "Tollkühnheit",
+        "Feigheit"
+      ],
+      "sample_answer": "Nach der im Skript dargestellten Tugendethik liegt tugendhaftes Handeln häufig zwischen zwei problematischen Extremen. Tapferkeit liegt beispielsweise zwischen Tollkühnheit und Feigheit."
+    },
+    {
+      "id": "ethics-042",
+      "chapter": 3,
+      "slide_reference": "Folie 53",
+      "question": "Was ist das zentrale Bewertungskriterium konsequentialistischer Ethik?",
+      "keywords": [
+        "Handlungsfolgen",
+        "Nutzen",
+        "Konsequenzen"
+      ],
+      "sample_answer": "Konsequentialistische Ethik beurteilt die moralische Richtigkeit einer Handlung anhand ihrer Folgen. Entscheidend ist, welche Auswirkungen die Handlung hervorbringt, nicht allein ihr Motiv."
+    },
+    {
+      "id": "ethics-043",
+      "chapter": 3,
+      "slide_reference": "Folie 53",
+      "question": "Was versteht man unter Utilitarismus?",
+      "keywords": [
+        "Konsequentialismus",
+        "Nutzen",
+        "Gesamtnutzen",
+        "größte Zahl"
+      ],
+      "sample_answer": "Der Utilitarismus ist eine Form der konsequentialistischen Ethik. Er bewertet Handlungen anhand ihres Nutzens und strebt die Maximierung des Gesamtnutzens für die Betroffenen an."
+    },
+    {
+      "id": "ethics-044",
+      "chapter": 3,
+      "slide_reference": "Folie 54",
+      "question": "Wie bewertet die konsequentialistische Perspektive wohltätige Marketingaktionen von Unternehmen?",
+      "keywords": [
+        "positive Folgen",
+        "Nutzen",
+        "Motiv nicht entscheidend",
+        "Gewinnabsicht"
+      ],
+      "sample_answer": "Aus einer konsequentialistischen Perspektive können wohltätige Marketingaktionen ethisch positiv sein, wenn ihre Folgen insgesamt nützlich sind. Die Gewinnabsicht ist dabei nicht das entscheidende Bewertungskriterium."
+    },
+    {
+      "id": "ethics-045",
+      "chapter": 3,
+      "slide_reference": "Folien 55–56",
+      "question": "Welche drei Fragen muss ein konsequentialistisches Nutzenkalkül klären?",
+      "keywords": [
+        "Zielvariable",
+        "für wen",
+        "Handlungen Regeln Institutionen"
+      ],
+      "sample_answer": "Zu klären ist erstens, welcher Wert maximiert werden soll, zweitens, wessen Interessen zählen, und drittens, worauf die Bewertung angewendet wird. Das Kalkül kann sich auf Handlungen, Regeln oder Institutionen beziehen."
+    },
+    {
+      "id": "ethics-046",
+      "chapter": 3,
+      "slide_reference": "Folie 55",
+      "question": "Warum ist es für den Konsequentialismus wichtig, die Zielvariable festzulegen?",
+      "keywords": [
+        "Glück",
+        "Lebensdauer",
+        "Wachstum",
+        "unterschiedliche Ziele"
+      ],
+      "sample_answer": "Je nach gewählter Zielvariable können Handlungen unterschiedlich bewertet werden. Das Skript nennt unter anderem Glück, Lebensdauer und Wirtschaftswachstum als mögliche Größen."
+    },
+    {
+      "id": "ethics-047",
+      "chapter": 3,
+      "slide_reference": "Folie 56",
+      "question": "Auf welche Gegenstände kann ein konsequentialistisches Kalkül angewendet werden?",
+      "keywords": [
+        "Handlungen",
+        "Regeln",
+        "Institutionen"
+      ],
+      "sample_answer": "Ein konsequentialistisches Kalkül kann einzelne Handlungen, allgemeine Handlungsregeln oder Institutionen beurteilen. Entscheidend ist jeweils die Bewertung ihrer Folgen."
+    },
+    {
+      "id": "ethics-048",
+      "chapter": 3,
+      "slide_reference": "Folie 57",
+      "question": "Nennen Sie zwei Schwierigkeiten des Utilitarismus.",
+      "keywords": [
+        "schwer abschätzbare Folgen",
+        "Überforderung",
+        "Mehrheit gegen Minderheit"
+      ],
+      "sample_answer": "Die Folgen von Handlungen und ihre Eintrittswahrscheinlichkeiten sind oft schwer abzuschätzen. Zudem kann eine reine Maximierung des Gesamtnutzens dazu führen, dass die Interessen Einzelner zugunsten einer Mehrheit geopfert werden."
+    },
+    {
+      "id": "ethics-049",
+      "chapter": 3,
+      "slide_reference": "Folie 59",
+      "question": "Was kennzeichnet die deontologische Ethik?",
+      "keywords": [
+        "Pflicht",
+        "Prinzipien",
+        "Maxime",
+        "nicht Folgen"
+      ],
+      "sample_answer": "Die deontologische Ethik beurteilt Handlungen vor allem anhand moralischer Pflichten, Prinzipien und Handlungsmaximen. Ihre moralische Bewertung hängt nicht entscheidend vom erreichten Gesamtnutzen ab."
+    },
+    {
+      "id": "ethics-050",
+      "chapter": 3,
+      "slide_reference": "Folien 59–60",
+      "question": "Welcher Philosoph wird im Skript mit der deontologischen Ethik verbunden?",
+      "keywords": [
+        "Immanuel Kant",
+        "kategorischer Imperativ",
+        "Universalisierung"
+      ],
+      "sample_answer": "Immanuel Kant ist ein zentraler Vertreter der deontologischen Ethik. Sein kategorischer Imperativ dient dazu, Handlungsmaximen auf ihre allgemeine moralische Vertretbarkeit zu prüfen."
+    },
+    {
+      "id": "ethics-051",
+      "chapter": 3,
+      "slide_reference": "Folie 60",
+      "question": "Was fordert die Universalisierungsformel des kategorischen Imperativs?",
+      "keywords": [
+        "Kant",
+        "Maxime",
+        "allgemeines Gesetz",
+        "Universalisierung"
+      ],
+      "sample_answer": "Nach Kants Universalisierungsformel soll man nur nach einer Maxime handeln, von der man zugleich wollen kann, dass sie allgemeines Gesetz wird. Damit wird die Verallgemeinerbarkeit des eigenen Handelns geprüft."
+    },
+    {
+      "id": "ethics-052",
+      "chapter": 3,
+      "slide_reference": "Folie 60",
+      "question": "Wie erläutert das Skript Kants kategorischen Imperativ am Beispiel des Lügens?",
+      "keywords": [
+        "Lügen",
+        "allgemeines Gesetz",
+        "Widerspruch",
+        "Pflicht"
+      ],
+      "sample_answer": "Das Skript fragt, ob man wollen könnte, dass Lügen allgemein erlaubt ist. Es verneint dies, weil eine Welt dauernder Lügen die Verlässlichkeit menschlicher Aussagen untergraben würde."
+    },
+    {
+      "id": "ethics-053",
+      "chapter": 3,
+      "slide_reference": "Folien 54,61",
+      "question": "Warum können Deontologie und Konsequentialismus wohltätige Werbung unterschiedlich beurteilen?",
+      "keywords": [
+        "Pflicht und Motiv",
+        "Folgen",
+        "Nutzen",
+        "Gewinnmaximierung"
+      ],
+      "sample_answer": "Die konsequentialistische Perspektive betrachtet die positiven Folgen einer wohltätigen Werbemaßnahme. Die im Skript dargestellte deontologische Perspektive kritisiert dagegen eine rein gewinnorientierte Handlungsabsicht, selbst wenn positive Folgen entstehen."
+    },
+    {
+      "id": "ethics-054",
+      "chapter": 3,
+      "slide_reference": "Folien 53,59",
+      "question": "Was ist der grundlegende Unterschied zwischen deontologischer und konsequentialistischer Ethik?",
+      "keywords": [
+        "Pflichten",
+        "Prinzipien",
+        "Handlungsfolgen",
+        "Beispiel"
+      ],
+      "sample_answer": "Deontologische Ethik bewertet Handlungen anhand ihrer Pflichten und Prinzipien. Konsequentialistische Ethik bewertet sie anhand ihrer Folgen; beispielsweise kann eine Nutzenabwägung eine Handlung billigen, die eine strikte Pflichtethik ablehnt."
+    },
+    {
+      "id": "ethics-055",
+      "chapter": 3,
+      "slide_reference": "Folie 63",
+      "question": "Warum führt der Fall eines entführten Flugzeugs zu unterschiedlichen ethischen Bewertungen?",
+      "keywords": [
+        "Lebensrecht",
+        "deontologisch",
+        "Schadensminimierung",
+        "konsequentialistisch"
+      ],
+      "sample_answer": "Die deontologische Perspektive betont das Recht auf Leben und lehnt eine Verletzung dieses Rechts auch zur Schadensbegrenzung ab. Die konsequentialistische Perspektive fragt, ob durch einen Abschuss insgesamt mehr Menschenleben gerettet würden."
+    },
+    {
+      "id": "ethics-056",
+      "chapter": 3,
+      "slide_reference": "Folien 65–67",
+      "question": "Worin unterscheiden sich Switch- und Footbridge-Variante des Trolley-Dilemmas?",
+      "keywords": [
+        "Hebel umlegen",
+        "Person stoßen",
+        "fünf gegen eins",
+        "moralische Beurteilung"
+      ],
+      "sample_answer": "In der Switch-Variante wird durch das Umlegen eines Hebels ein Mensch geopfert, um fünf zu retten. In der Footbridge-Variante müsste eine Person aktiv von einer Brücke gestoßen werden; diese Handlung wird meist stärker abgelehnt."
+    },
+    {
+      "id": "ethics-057",
+      "chapter": 3,
+      "slide_reference": "Folien 66–68",
+      "question": "Was untersucht die Studie 'Pushing Moral Buttons' von Greene et al.?",
+      "keywords": [
+        "moralische Urteile",
+        "Intention",
+        "personal force",
+        "Trolley-Dilemma"
+      ],
+      "sample_answer": "Die Studie untersucht, warum Menschen verschiedene Formen moralisch problematischer Eingriffe unterschiedlich beurteilen. Im Mittelpunkt stehen insbesondere die Rolle der Absicht und der direkt ausgeübten persönlichen Kraft."
+    },
+    {
+      "id": "ethics-058",
+      "chapter": 3,
+      "slide_reference": "Folie 68",
+      "question": "Was bedeutet 'personal force' im Zusammenhang mit dem Trolley-Dilemma?",
+      "keywords": [
+        "direkte Muskelkraft",
+        "handelnde Person",
+        "Opfer",
+        "nicht bloß Kontakt"
+      ],
+      "sample_answer": "'Personal force' bezeichnet die direkte körperliche Kraft, die eine handelnde Person mit ihren Muskeln auf ein Opfer ausübt. Der Begriff ist nicht einfach mit physischem Kontakt oder räumlicher Nähe gleichzusetzen."
+    },
+    {
+      "id": "ethics-059",
+      "chapter": 3,
+      "slide_reference": "Folien 69–70",
+      "question": "Welches Hauptergebnis berichtet das Skript zur Studie von Greene et al. über personal force?",
+      "keywords": [
+        "weniger akzeptabel",
+        "Muskelkraft",
+        "kein Effekt Kontakt",
+        "kein Effekt Nähe"
+      ],
+      "sample_answer": "Handlungen mit direkter persönlicher Muskelkraft wurden in der im Skript vorgestellten Studie moralisch weniger akzeptabel beurteilt. Für bloßen Kontakt oder räumliche Nähe wurde dort kein entsprechender Effekt berichtet."
+    },
+    {
+      "id": "ethics-060",
+      "chapter": 3,
+      "slide_reference": "Folien 57,63",
+      "question": "Warum können streng deontologische und streng utilitaristische Urteile jeweils problematisch sein?",
+      "keywords": [
+        "starre Pflichten",
+        "Nutzenkalkül",
+        "Minderheiten",
+        "Abwägung"
+      ],
+      "sample_answer": "Eine strikte Pflichtorientierung kann in Einzelfällen erhebliche Folgen für andere unberücksichtigt lassen. Eine reine Nutzenmaximierung kann dagegen Grundrechte oder Interessen von Minderheiten gefährden."
+    },
+    {
+      "id": "ethics-061",
+      "chapter": 4,
+      "slide_reference": "Folie 73",
+      "question": "Warum ist die Messung von Intelligenz laut Vorlesung problematisch?",
+      "keywords": [
+        "Quantifizierung",
+        "unterschiedliche Fähigkeiten",
+        "Umwelteinflüsse",
+        "Werturteile"
+      ],
+      "sample_answer": "Intelligenz umfasst unterschiedliche Fähigkeiten, deren Vergleich und Messung schwierig ist. Außerdem beeinflussen Umweltbedingungen wie Bildung die Ergebnisse, weshalb daraus abgeleitete Werturteile problematisch sein können."
+    },
+    {
+      "id": "ethics-062",
+      "chapter": 4,
+      "slide_reference": "Folie 74",
+      "question": "Wie beschreibt die Vorlesung künstliche Intelligenz?",
+      "keywords": [
+        "Maschinen",
+        "Aufgaben",
+        "menschliche Intelligenz",
+        "statistische Verfahren"
+      ],
+      "sample_answer": "Künstliche Intelligenz bezeichnet im Skript maschinelle Systeme, die Aufgaben bearbeiten, für die bei Menschen oder Tieren Intelligenz erforderlich wäre. Das Skript verweist dabei auf statistische Verfahren als technische Grundlage."
+    },
+    {
+      "id": "ethics-063",
+      "chapter": 4,
+      "slide_reference": "Folie 77",
+      "question": "Was ist das Grundprinzip des Turing-Tests?",
+      "keywords": [
+        "Befragung",
+        "Mensch oder Maschine",
+        "Unterscheidbarkeit"
+      ],
+      "sample_answer": "Beim Turing-Test kommuniziert eine Person mit einem Gesprächspartner, der Mensch oder Maschine sein kann. Die Maschine besteht den Test, wenn die befragende Person sie im jeweiligen Test nicht zuverlässig vom Menschen unterscheiden kann."
+    },
+    {
+      "id": "ethics-064",
+      "chapter": 4,
+      "slide_reference": "Folie 78",
+      "question": "Was versteht das Skript unter Narrow AI?",
+      "keywords": [
+        "spezifische Aufgabe",
+        "spezialisiert",
+        "Übersetzung",
+        "Erkennung"
+      ],
+      "sample_answer": "Narrow AI bezeichnet KI-Systeme, die für bestimmte Aufgaben oder Fragestellungen entwickelt werden. Beispiele im Skript sind automatische Übersetzung sowie Gesichts- oder Spracherkennung."
+    },
+    {
+      "id": "ethics-065",
+      "chapter": 4,
+      "slide_reference": "Folie 78",
+      "question": "Welche Fähigkeiten werden bei General AI im Skript genannt?",
+      "keywords": [
+        "logische Argumentation",
+        "Unsicherheit",
+        "Lernen",
+        "mehrere Fähigkeiten"
+      ],
+      "sample_answer": "Das Skript verbindet General AI mit logischer Argumentation, Entscheidungen unter Unsicherheit und Lernfähigkeit. Im Gegensatz zu spezialisierten Systemen soll sie mehrere unterschiedliche Fähigkeiten kombinieren."
+    },
+    {
+      "id": "ethics-066",
+      "chapter": 4,
+      "slide_reference": "Folie 79",
+      "question": "Warum bezeichnet das Skript Superintelligenz als umstrittenes Konzept?",
+      "keywords": [
+        "Bewusstsein",
+        "Selbstreflexion",
+        "Zukunft",
+        "umstritten"
+      ],
+      "sample_answer": "Das Skript diskutiert Superintelligenz als hypothetisches Konzept, das mit Bewusstsein und Selbstreflexion verknüpft wird. Ob eine solche KI tatsächlich entstehen wird, wird ausdrücklich als umstritten dargestellt."
+    },
+    {
+      "id": "ethics-067",
+      "chapter": 4,
+      "slide_reference": "Folie 80",
+      "question": "Wie wird KI in der Vorlesung hinsichtlich ihrer gegenwärtigen Rolle eingeordnet?",
+      "keywords": [
+        "Instrument",
+        "kein unabhängiger Akteur",
+        "menschliche Nutzung"
+      ],
+      "sample_answer": "Die Vorlesung beschreibt KI gegenwärtig als Instrument zur Erfüllung menschlicher Aufgaben und nicht als eigenständigen moralischen Akteur. Für ihre Bewertung ist daher der menschliche Einsatz von KI wesentlich."
+    },
+    {
+      "id": "ethics-068",
+      "chapter": 4,
+      "slide_reference": "Folie 81",
+      "question": "Was bedeutet Dual Use bei technischen Instrumenten?",
+      "keywords": [
+        "gute Zwecke",
+        "schlechte Zwecke",
+        "Nutzungskontext",
+        "Folgen"
+      ],
+      "sample_answer": "Dual Use bedeutet, dass ein Instrument sowohl für nützliche als auch für schädliche Zwecke verwendet werden kann. Die ethische Bewertung hängt unter anderem von Einsatz, Nutzer und Folgen für andere ab."
+    },
+    {
+      "id": "ethics-069",
+      "chapter": 4,
+      "slide_reference": "Folie 81",
+      "question": "Erläutern Sie Dual Use anhand eines Beispiels aus dem Skript.",
+      "keywords": [
+        "Messer",
+        "Kuchen schneiden",
+        "jemanden verletzen",
+        "Zweck"
+      ],
+      "sample_answer": "Das Skript verwendet ein Messer als Beispiel für Dual Use: Es kann zum Schneiden eines Kuchens, aber auch zum Töten eines Menschen eingesetzt werden. Dieselbe technische Fähigkeit ist daher nicht automatisch moralisch gut oder schlecht."
+    },
+    {
+      "id": "ethics-070",
+      "chapter": 4,
+      "slide_reference": "Folie 81",
+      "question": "Warum sind laut Skript nicht alle Instrumente im gleichen Sinn Dual Use?",
+      "keywords": [
+        "gute und schlechte Zwecke",
+        "ausschließlich schädliche Zwecke",
+        "Malware"
+      ],
+      "sample_answer": "Viele Instrumente lassen sich sowohl nützlich als auch schädlich einsetzen. Das Skript nennt jedoch auch Instrumente wie Malware, deren Einsatz typischerweise auf Schädigung gerichtet ist."
+    },
+    {
+      "id": "ethics-071",
+      "chapter": 4,
+      "slide_reference": "Folie 82",
+      "question": "Was versteht die Vorlesung unter Enhancement durch KI?",
+      "keywords": [
+        "Verbesserung",
+        "menschliche Fähigkeiten",
+        "über Heilung hinaus",
+        "Transhumanismus"
+      ],
+      "sample_answer": "Enhancement meint die Verbesserung menschlicher Fähigkeiten über die bloße Heilung einer Erkrankung hinaus. Das Skript stellt dazu ethische Fragen, etwa ob technische Verbesserungen auch ohne medizinische Notwendigkeit eingesetzt werden sollen."
+    },
+    {
+      "id": "ethics-072",
+      "chapter": 4,
+      "slide_reference": "Folie 83",
+      "question": "Was bedeutet Beneficence im Zusammenhang mit KI?",
+      "keywords": [
+        "Wohltun",
+        "positive Zwecke",
+        "Nutzen",
+        "gesellschaftliche Vorteile"
+      ],
+      "sample_answer": "Beneficence bezeichnet das ethische Prinzip, dass der Einsatz von KI positive Ziele fördern soll. Das Skript nennt beispielsweise wirtschaftliche Effizienz, Sicherheit und Unterstützung bei gesellschaftlichen Problemen."
+    },
+    {
+      "id": "ethics-073",
+      "chapter": 4,
+      "slide_reference": "Folien 83–84",
+      "question": "Nennen Sie drei mögliche gesellschaftliche Vorteile von KI aus der Vorlesung.",
+      "keywords": [
+        "Effizienz",
+        "Verkehrssicherheit",
+        "Armutsbekämpfung",
+        "Entscheidungsunterstützung"
+      ],
+      "sample_answer": "Die Vorlesung nennt unter anderem höhere wirtschaftliche Effizienz, mehr Verkehrssicherheit und bessere Unterstützung bei Entscheidungen. Außerdem werden mögliche Beiträge zur Armutsbekämpfung und zu medizinischen Anwendungen diskutiert."
+    },
+    {
+      "id": "ethics-074",
+      "chapter": 4,
+      "slide_reference": "Folie 85",
+      "question": "Warum reicht Beneficence allein möglicherweise nicht zur ethischen Beurteilung von KI?",
+      "keywords": [
+        "Nutzen",
+        "zusätzliche Kriterien",
+        "Risiken",
+        "ethische Grenzen"
+      ],
+      "sample_answer": "Ein hoher Nutzen oder eine bessere technische Leistung beantwortet noch nicht alle ethischen Fragen. Zusätzlich müssen mögliche Nachteile, Rechte der Betroffenen und andere moralische Anforderungen berücksichtigt werden."
+    },
+    {
+      "id": "ethics-075",
+      "chapter": 4,
+      "slide_reference": "Folie 86",
+      "question": "Was sind Opportunitätskosten beim Nichteinsatz einer Technologie?",
+      "keywords": [
+        "entgangener Nutzen",
+        "Nichteinführung",
+        "Alternativen",
+        "Folgen"
+      ],
+      "sample_answer": "Opportunitätskosten entstehen, wenn auf den möglichen Nutzen einer Alternative verzichtet wird. Bei KI kann der Nichteinsatz beispielsweise bedeuten, dass Verbesserungen der Sicherheit oder medizinischen Diagnostik ausbleiben."
+    },
+    {
+      "id": "ethics-076",
+      "chapter": 4,
+      "slide_reference": "Folie 86",
+      "question": "Wie illustriert die Vorlesung Opportunitätskosten der Nichtanwendung von KI im Gesundheitswesen?",
+      "keywords": [
+        "Patientenakten",
+        "bessere Prognosen",
+        "Früherkennung",
+        "entgangener Nutzen"
+      ],
+      "sample_answer": "Das Skript nennt die mögliche Auswertung digitaler Patientenakten zur Verbesserung von Prognosen und Früherkennung. Wenn eine solche Technologie nicht eingesetzt wird, kann ihr potenzieller Nutzen verloren gehen."
+    },
+    {
+      "id": "ethics-077",
+      "chapter": 4,
+      "slide_reference": "Folie 87",
+      "question": "Welchen Konflikt thematisiert die utilitaristische Perspektive auf KI?",
+      "keywords": [
+        "Gesamtnutzen",
+        "Minderheit",
+        "Nutzenmaximierung",
+        "Benachteiligung"
+      ],
+      "sample_answer": "Ein KI-Einsatz könnte den Gesamtnutzen steigern und zugleich einer kleinen Gruppe schaden. Die Vorlesung fragt, ob die Maximierung des Gesamtnutzens eine solche Benachteiligung ethisch rechtfertigen kann."
+    },
+    {
+      "id": "ethics-078",
+      "chapter": 4,
+      "slide_reference": "Folien 88–89",
+      "question": "Was bedeutet Bias bei KI-Systemen?",
+      "keywords": [
+        "systematische Verzerrung",
+        "Daten oder Modell",
+        "ungleiche Ergebnisse"
+      ],
+      "sample_answer": "Bias bezeichnet eine systematische Verzerrung, die zu ungleichen oder fehlerhaften Ergebnissen eines KI-Systems führen kann. Solche Verzerrungen können auch entstehen, wenn scheinbar neutrale Variablen ungeeignete Stellvertreter für das eigentliche Ziel sind."
+    },
+    {
+      "id": "ethics-079",
+      "chapter": 4,
+      "slide_reference": "Folien 88–89",
+      "question": "Wie entstand der im Skript beschriebene Bias eines Gesundheitsalgorithmus?",
+      "keywords": [
+        "Gesundheitskosten statt Krankheiten",
+        "ungleicher Zugang",
+        "unterschätzte Risiken"
+      ],
+      "sample_answer": "Der Algorithmus sollte Gesundheitskosten statt des tatsächlichen Gesundheitszustands vorhersagen. Weil bestimmte Patientengruppen weniger Zugang zu Versorgung und damit geringere Kosten hatten, wurden ihre gesundheitlichen Risiken unterschätzt."
+    },
+    {
+      "id": "ethics-080",
+      "chapter": 4,
+      "slide_reference": "Folie 89",
+      "question": "Warum können scheinbar neutrale Variablen in KI-Systemen diskriminierende Folgen haben?",
+      "keywords": [
+        "Stellvertretervariable",
+        "verborgener Bias",
+        "soziale Ungleichheit"
+      ],
+      "sample_answer": "Eine scheinbar neutrale Variable kann bestehende soziale Ungleichheiten widerspiegeln. Wenn ein System etwa Kosten als Ersatz für Gesundheitsbedarf verwendet, kann es benachteiligte Gruppen falsch bewerten."
+    },
+    {
+      "id": "ethics-081",
+      "chapter": 4,
+      "slide_reference": "Folie 90",
+      "question": "Welches ethische Prinzip steht hinter der Diskussion über algorithmische Fairness?",
+      "keywords": [
+        "Gleichheit",
+        "Diskriminierungsverbot",
+        "faire Behandlung",
+        "Grundrechte"
+      ],
+      "sample_answer": "Algorithmische Fairness verlangt, dass technische Systeme Menschen nicht ungerecht aufgrund ihrer Gruppenzugehörigkeit benachteiligen. Im Skript wird dies mit Gleichheitsrechten und dem Diskriminierungsverbot verknüpft."
+    },
+    {
+      "id": "ethics-082",
+      "chapter": 4,
+      "slide_reference": "Folie 90",
+      "question": "Welcher Philosoph wird im Zusammenhang mit Grundfreiheiten und Fairness zitiert?",
+      "keywords": [
+        "John Rawls",
+        "gleiche Grundfreiheiten",
+        "Gleichheit"
+      ],
+      "sample_answer": "Das Skript verweist auf John Rawls und dessen Forderung nach gleichen grundlegenden Freiheiten für alle. Dieser Gedanke dient als Bezugspunkt für Fragen algorithmischer Fairness."
+    },
+    {
+      "id": "ethics-083",
+      "chapter": 4,
+      "slide_reference": "Folie 91",
+      "question": "Warum ist Datenschutz für die Entwicklung und Nutzung von KI relevant?",
+      "keywords": [
+        "Daten als Input",
+        "personenbezogene Informationen",
+        "Missbrauchsrisiko",
+        "Schutz"
+      ],
+      "sample_answer": "KI-Systeme benötigen häufig große Datenmengen als Input. Die Verarbeitung personenbezogener Informationen kann dabei erhebliche Risiken für Privatsphäre und Rechte der Betroffenen mit sich bringen."
+    },
+    {
+      "id": "ethics-084",
+      "chapter": 4,
+      "slide_reference": "Folie 91",
+      "question": "Was bedeutet Datenminimierung im Zusammenhang mit KI?",
+      "keywords": [
+        "nur erforderliche Daten",
+        "DSGVO",
+        "Schutz",
+        "genetische Daten"
+      ],
+      "sample_answer": "Datenminimierung verlangt, die Verarbeitung personenbezogener Daten auf das für den jeweiligen Zweck Erforderliche zu beschränken. Das Skript nennt dieses Prinzip im Zusammenhang mit der DSGVO und besonders sensiblen Daten."
+    },
+    {
+      "id": "ethics-085",
+      "chapter": 4,
+      "slide_reference": "Folie 91",
+      "question": "Was ist mit vorausschauender Verantwortung bei KI gemeint?",
+      "keywords": [
+        "Foresighted responsibility",
+        "mögliche Folgen",
+        "frühzeitig",
+        "Verantwortung"
+      ],
+      "sample_answer": "Vorausschauende Verantwortung bedeutet, mögliche Folgen und Risiken von KI schon vor beziehungsweise während ihrer Entwicklung und Einführung zu berücksichtigen. Das Skript nennt sie als Prinzip der Datenethik."
+    },
+    {
+      "id": "ethics-086",
+      "chapter": 4,
+      "slide_reference": "Folien 92–93",
+      "question": "Welcher Normenkonflikt wird anhand von KI-basierter Sicherheitskontrolle erläutert?",
+      "keywords": [
+        "Datenschutz",
+        "Nichtdiskriminierung",
+        "Sicherheit",
+        "Grundrechte"
+      ],
+      "sample_answer": "Die Vorlesung stellt den Schutz der Privatsphäre anderen legitimen Zielen wie körperlicher Sicherheit und Nichtdiskriminierung gegenüber. KI-basierte Kontrollen können diese Ziele fördern, zugleich aber neue Eingriffe in Grundrechte verursachen."
+    },
+    {
+      "id": "ethics-087",
+      "chapter": 4,
+      "slide_reference": "Folie 93",
+      "question": "Was bedeutet die Forderung, konfligierende Normen abzuwägen, ohne eine Norm aufzuheben?",
+      "keywords": [
+        "Abwägung",
+        "Grundrechte",
+        "kein vollständiger Verzicht",
+        "verhältnismäßiger Eingriff"
+      ],
+      "sample_answer": "Wenn ethische Normen miteinander in Konflikt geraten, müssen ihre Anforderungen gegeneinander abgewogen werden. Nach dem Skript darf eine solche Abwägung nicht dazu führen, dass eine der betroffenen Normen vollständig außer Kraft gesetzt wird."
+    },
+    {
+      "id": "ethics-088",
+      "chapter": 4,
+      "slide_reference": "Folie 93",
+      "question": "Warum kann die Speicherung personenbezogener Daten bei automatischen Sicherheitskontrollen problematisch sein?",
+      "keywords": [
+        "Sicherheitsgewinn",
+        "Speicherung",
+        "Privatsphäre",
+        "Eingriffsintensität"
+      ],
+      "sample_answer": "Eine automatische Kontrolle kann der Sicherheit dienen, greift durch die Speicherung persönlicher Daten aber stärker in die Privatsphäre ein. Die ethische Bewertung muss daher Nutzen und Eingriffsintensität berücksichtigen."
+    },
+    {
+      "id": "ethics-089",
+      "chapter": 4,
+      "slide_reference": "Folie 94",
+      "question": "Welche ethische Grenze illustriert das Beispiel staatlicher KI-Überwachung einer Minderheit?",
+      "keywords": [
+        "Generalverdacht",
+        "Überwachung",
+        "Repression",
+        "Übermaßverbot"
+      ],
+      "sample_answer": "Das Beispiel zeigt, dass flächendeckende Überwachung einer Minderheit und ihre Verbindung mit Repressionen ethische Grenzen überschreiten können. Im Skript wird insbesondere auf einen Verstoß gegen das Übermaßverbot verwiesen."
+    },
+    {
+      "id": "ethics-090",
+      "chapter": 4,
+      "slide_reference": "Folien 88–90",
+      "question": "Nennen Sie ein Beispiel für eine mögliche Menschenrechtsverletzung durch den Einsatz von KI.",
+      "keywords": [
+        "Diskriminierung",
+        "algorithmische Entscheidung",
+        "Gleichbehandlung",
+        "Beispiel"
+      ],
+      "sample_answer": "Ein KI-System kann Menschen systematisch benachteiligen, wenn seine Entscheidungsgrundlagen verzerrt sind. Beispielsweise kann ein fehlerhafter Gesundheitsalgorithmus bestimmte Patientengruppen bei der Versorgung ungerecht behandeln."
+    },
+    {
+      "id": "ethics-091",
+      "chapter": 4,
+      "slide_reference": "Folien 80–81",
+      "question": "Warum sollte sich die ethische Bewertung von KI nicht nur auf ihre technische Leistungsfähigkeit stützen?",
+      "keywords": [
+        "Instrument",
+        "Einsatzbedingungen",
+        "Nutzer",
+        "Folgen für Dritte"
+      ],
+      "sample_answer": "KI wird im Skript als Instrument beschrieben, das zu unterschiedlichen Zwecken verwendet werden kann. Deshalb sind nicht nur technische Leistungen, sondern auch die Absichten der Nutzer, die Einsatzbedingungen und Folgen für Dritte entscheidend."
+    }
+  ]
+}
