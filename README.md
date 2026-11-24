@@ -4,7 +4,7 @@ Ein interaktiver Lerntrainer zur Lehrveranstaltung **Information and Business Et
 
 ## Lerntrainer öffnen
 
-**[Zum Lerntrainer](https://simon-lost-in-cache.github.io/ethics-training/)**
+**[Zum Lerntrainer](https://simon-lost-in-cache.github.io/ethik-lerntrainer/)**
 
 > Der Link setzt voraus, dass das Repository `ethics-training` heißt und GitHub Pages aktiviert ist.
 
