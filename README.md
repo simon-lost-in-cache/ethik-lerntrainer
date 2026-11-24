@@ -34,12 +34,6 @@ Der Lerntrainer verwendet **keine Cookies, keine Tracking- oder Analysedienste u
 
 **Hinweis:** GitHub Pages ist der Hostinganbieter. GitHub kann unabhängig vom Lerntrainer technische Zugriffsdaten (etwa IP-Adressen und Server-Logs) verarbeiten. Siehe [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Browser können heruntergeladene statische Dateien außerdem zwischenspeichern.
 
-## GitHub Pages
-
-1. Dateien `index.html`, `style.css`, `app.js`, `questions.json` und `kant-logo.webp` ins Repository-Hauptverzeichnis laden.
-2. Unter **Settings → Pages → Build and deployment** die Option **Deploy from a branch**, Branch **main** und Ordner **/(root)** wählen.
-3. Den obigen Link an deinen GitHub-Namen und Repository-Namen anpassen.
-
 ## Technik
 
 Statische Website mit HTML, CSS und JavaScript. Keine API und kein Backend erforderlich. Die Serifenschrift Georgia wird lokal aus den Systemschriften dargestellt; keine Anfragen an Google Fonts.
