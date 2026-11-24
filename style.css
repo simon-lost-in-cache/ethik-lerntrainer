@@ -4,3 +4,23 @@ footer a{color:var(--gold-dark);text-decoration:underline;text-underline-offset:
 .essay-header-link{display:inline-block;padding:10px 16px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--gold-dark);text-decoration:none;font-size:.8rem;font-weight:700;white-space:nowrap}
   .essay-header-link:hover{background:var(--gold-soft)}
   @media(max-width:650px){.site-header{flex-wrap:wrap}.essay-header-link{margin-left:auto}}
+.essay-header-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 12px 20px;
+  border: 1px solid #d8c49a;
+  border-radius: 10px;
+  background: #ffffff;
+  color: #8b691f;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.2s;
+}
+
+.essay-header-link:hover {
+  background: #f5eedf;
+  color: #6f5218;
+}
