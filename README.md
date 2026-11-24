@@ -46,4 +46,4 @@ Statische Website mit HTML, CSS und JavaScript. Keine API und kein Backend erfor
 
 ## Credits
 
-**Konzeption und Gestaltung: Simon Almassy**
+**Konzeption und Gestaltung: Simon Almássy**
