@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#faf8f3">
+  <meta name="description" content="Information & Business Ethics – freie Antworten üben, Schlüsselbegriffe einblenden und gezielt wiederholen.">
+  <title>Ethics · Lerntrainer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="site-header">
+      <div class="brand">
+        <img class="brand-logo" src="kant-logo.webp" alt="Kant mit Engel und Teufel" width="80" height="80">
+        <div>
+          <span class="eyebrow">Digital Business · Studium</span>
+          <h1>Information &amp;<br>Business Ethics</h1>
+          <p class="subheading">Wissen verstehen. In eigenen Worten erklären.</p>
+        </div>
+      </div>
+      <div class="header-mark" aria-hidden="true">✦</div>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="Lernoptionen">
+        <div class="field">
+          <label for="chapter-select">Kapitel</label>
+          <select id="chapter-select"><option value="all">Alle Kapitel</option></select>
+        </div>
+        <div class="field">
+          <label for="practice-select">Üben</label>
+          <select id="practice-select">
+            <option value="all">Alle Fragen</option>
+            <option value="review">Offene &amp; unsichere Fragen</option>
+            <option value="unseen">Noch nicht bearbeitet</option>
+            <option value="weak">Nur unsichere Fragen</option>
+          </select>
+        </div>
+        <div class="toolbar-actions">
+          <button id="shuffle-button" class="button button-outline" type="button">Neu mischen ↻</button>
+        </div>
+      </section>
+
+      <section class="progress-panel" aria-label="Lernfortschritt">
+        <div class="progress-heading"><strong>Dein Lernfortschritt</strong><span id="progress-label">0 / 91 sicher</span></div>
+        <div class="progress-track" role="progressbar" aria-label="Sicher beherrschte Fragen" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="progress-track"><div id="progress-bar"></div></div>
+        <div id="progress-detail" class="progress-detail">Lade Fragen …</div>
+      </section>
+
+      <section id="status-panel" class="status-panel" role="status" hidden></section>
+
+      <article class="question-card" id="question-card" hidden>
+        <div class="question-top">
+          <span id="question-category" class="eyebrow">Kapitel 1</span>
+          <span id="question-slide" class="slide-label">Folie 21</span>
+        </div>
+        <div class="question-count" id="question-count"></div>
+        <h2 id="question-text"></h2>
+
+        <div id="answer-stage">
+          <button id="hint-button" class="hint-button" type="button" aria-expanded="false" aria-controls="hint-panel">✧ Schlüsselbegriffe anzeigen</button>
+          <div id="hint-panel" class="hint-panel" hidden>
+            <p class="minor-label">Diese Begriffe sollten vorkommen</p>
+            <div id="keyword-list" class="keyword-list"></div>
+          </div>
+          <label class="answer-label" for="answer-input">Deine Antwort</label>
+          <textarea id="answer-input" rows="6" placeholder="Formuliere deine Antwort in vollständigen Sätzen …"></textarea>
+          <div class="card-actions">
+            <span class="note">Keine automatische Benotung</span>
+            <button id="submit-button" class="button button-primary" type="button" disabled>Antwort abgeben</button>
+          </div>
+        </div>
+
+        <div id="solution-stage" hidden>
+          <div class="submitted-answer"><span class="minor-label">Deine Antwort</span><p id="submitted-text"></p></div>
+          <div class="solution"><span class="minor-label">Beispielauflösung</span><p id="solution-text"></p></div>
+          <div class="reflection">
+            <h3>Wie gut war deine Antwort?</h3>
+            <p>Vergleiche sie mit der Beispielauflösung und beurteile, ob du den Inhalt selbstständig erklären kannst.</p>
+            <div class="rating-actions" role="group" aria-label="Antwort einschätzen">
+              <button class="button rating" type="button" data-rating="good">Richtig &amp; vollständig</button>
+              <button class="button rating" type="button" data-rating="partial">Teilweise richtig</button>
+              <button class="button rating" type="button" data-rating="again">Nicht gewusst</button>
+            </div>
+            <p id="rating-feedback" class="rating-feedback" aria-live="polite"></p>
+          </div>
+          <div class="card-actions after-rating"><span id="next-hint" class="note">Bewerte deine Antwort, um fortzufahren.</span><button id="next-button" class="button button-primary" type="button" disabled>Nächste Frage →</button></div>
+        </div>
+      </article>
+
+      <section class="bottom-panel">
+        <div><strong>Übung statt Prüfung.</strong><p>Schlüsselbegriffe helfen beim Formulieren. Die Musterantwort erscheint immer nach der Abgabe. Deine Einschätzung steuert spätere Wiederholungen.</p></div>
+        <button class="reset-button" id="reset-button" type="button">Lernfortschritt zurücksetzen</button>
+      </section>
+    </main>
+    <footer>
+      <p><strong>Unabhängiges privates Lernprojekt.</strong> Keine offizielle Verbindung zur FHWien der WKW; Hochschule und Lehrende waren an der Erstellung nicht beteiligt.</p>
+      <p>Fragen, Schlüsselbegriffe und Musterantworten wurden mit ChatGPT (OpenAI) erstellt und können Fehler enthalten. Keine offiziellen Prüfungsfragen oder Musterlösungen.</p>
+    </footer>
+  </div>
+</body>
+</html>
